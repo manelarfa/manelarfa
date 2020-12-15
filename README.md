@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<div align="center">
+	<img src="https://github.com/sindresorhus/sindresorhus/raw/master/main.gif">
+</div>
 <!--
 **manelarfa/manelarfa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
