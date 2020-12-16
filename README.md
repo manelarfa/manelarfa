@@ -2,6 +2,7 @@
 <div align="center">
 	<h1>👋 👋 👋 Hi Guys  👋 👋 👋</h1> <br/>
 	<img src="https://idata.over-blog.com/0/31/42/95/photos-blog-2/fille---l-ordinateur.gif">
+	- 📫 How to reach me: arfamanelarfa@gmail.com
 </div>
 <!--
 **manelarfa/manelarfa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
