@@ -1,7 +1,7 @@
 
 <div align="center">
 	<h1>👋 👋 👋 Hi Guys  👋 👋 👋</h1> <br/>
-	<img src="https://idata.over-blog.com/0/31/42/95/photos-blog-2/fille---l-ordinateur.gif">
+	<img src="https://idata.over-blog.com/0/31/42/95/photos-blog-2/fille---l-ordinateur.gif"> <br/>
 	- 📫 How to reach me: arfamanelarfa@gmail.com
 </div>
 <!--
